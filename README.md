@@ -1,5 +1,5 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [karthik c!](https://karthikc07.wixsite.com/portfolio) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,I'm [karthik c!](https://karthikc07.wixsite.com/portfolio) 
 I am karthik c. I am a tech enthusiast & an open-source person. I am always open to collaborate on projects. You can connect with me here:
 
 

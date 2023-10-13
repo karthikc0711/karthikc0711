@@ -8,8 +8,9 @@ I am karthik c. I am a tech enthusiast & an open-source person. I am always open
 [![Twitter Badge](https://img.shields.io/badge/-karthikc0711-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Karthikc0711)](https://twitter.com/karthikc0711)
 ![Hello, my name is Matthew  Nice to meet you  (1)](https://user-images.githubusercontent.com/76835216/189540849-db82c6bf-1f99-40ca-bb8d-79027ecfe11c.jpg)
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikc0711&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="karthik's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikc0711&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-[![karthik's GitHub stats](https://github-readme-stats.vercel.app/api?karthikc0711=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Connect with me 💬](https://karthikc07.wixsite.com/portfolio)
 

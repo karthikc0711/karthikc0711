@@ -1,5 +1,5 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">,I'm [karthik c!](https://karthikc07.wixsite.com/portfolio) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="100">,I'm[karthik c!](https://karthikc07.wixsite.com/portfolio) 
 I am karthik c. I am a tech enthusiast & an open-source person. I am always open to collaborate on projects. You can connect with me here:
 
 
@@ -8,6 +8,8 @@ I am karthik c. I am a tech enthusiast & an open-source person. I am always open
 [![Twitter Badge](https://img.shields.io/badge/-karthikc0711-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/Karthikc0711)](https://twitter.com/karthikc0711)
 ![Hello, my name is Matthew  Nice to meet you  (1)](https://user-images.githubusercontent.com/76835216/189540849-db82c6bf-1f99-40ca-bb8d-79027ecfe11c.jpg)
 
+
+[![karthik's GitHub stats](https://github-readme-stats.vercel.app/api?karthikc0711=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Connect with me 💬](https://karthikc07.wixsite.com/portfolio)
 

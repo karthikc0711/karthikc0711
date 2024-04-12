@@ -15,6 +15,9 @@ I am karthik c. I am a tech enthusiast & an open-source person. I am always open
 ### [Connect with me 💬](https://karthikc07.wixsite.com/portfolio)
 
 ## My Recent Blogs
+## >>>>[How to Unzip Files to a Specific Directory in Linux](https://medium.com/@karthikc0711/how-to-unzip-files-to-a-specific-directory-in-linux-31a936cff664)
+This blog explores effective solutions for common challenges encountered while unzipping files to specific directories in Linux, offering practical guidance for smooth file extraction operations.</p>
+<br>
 ## >>>>[What is a hackathon? 10 hacks to prepare for a Hackathon💻!](https://medium.com/@karthikc0711/introduction-d654502b3944)
 What is a Hackathon?<br>
 A hackathon is a competition where teams of programmers, designers, and others work together to create a new application, website, or service.Top 10 tips to win hackathon

@@ -1,5 +1,5 @@
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="100">,I'm[karthik c!](https://karthikc07.wixsite.com/portfolio) 
+## <img src="https://private-user-images.githubusercontent.com/74038190/240877480-5f6597b4-ff7c-4415-9272-d95759df842f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTMzNDc5NDUsIm5iZiI6MTcxMzM0NzY0NSwicGF0aCI6Ii83NDAzODE5MC8yNDA4Nzc0ODAtNWY2NTk3YjQtZmY3Yy00NDE1LTkyNzItZDk1NzU5ZGY4NDJmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDE3VDA5NTQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThmNWUyMDQ3NjQwNTI2NjYwZjk5ODMyMTdhNTFlZDdjM2VmNGVkYTA2NTYzNTBjYmM2ZTFkYzM5YTNiN2YyNmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-mx5MC5pObFrjmOefFpdrD_51ULk4zaDMfTRSFJq3Ro" width="500">,I'm[<KARTHIK C!/>](https://karthikc07.wixsite.com/portfolio) 
 I am karthik c. I am a tech enthusiast & an open-source person. I am always open to collaborate on projects. You can connect with me here:
 
 
